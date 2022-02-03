@@ -10,9 +10,11 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığ�
 ## Usage
 Klonladıktan sonra Linıx içerisinde açmak için 
 
-``` cd kodluyoruzilkrepo```
-    
-```code .```
+``` 
+cd kodluyoruzilkrepo
+
+code .
+```
 
 ## Contributing
 
