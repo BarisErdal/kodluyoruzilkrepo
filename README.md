@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığ�
 ![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 ## Installation
 Öncelikle projemizi 
-` git clone github.com`
+``` git clone github.com```
 
 ## Usage
 linux için
