@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığ�
 
 ## Usage
 linux için
-` cd kodluyoruz`
+> cd kodluyoruz
 ## Contributing
 
 pull request
