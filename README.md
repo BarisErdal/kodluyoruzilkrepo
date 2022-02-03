@@ -5,7 +5,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığ�
 ## Installation
 Öncelikle projemizi klonlayalım
 
-``` git clone https://github.com/BarisErdal/kodluyoruzilkrepo```
+``` 
+git clone https://github.com/BarisErdal/kodluyoruzilkrepo
+```
 
 ## Usage
 Klonladıktan sonra Linıx içerisinde açmak için 
@@ -18,6 +20,7 @@ code .
 
 ## Contributing
 
-pull request
+Pull requestler kabul edilir.
+
 ## License
 [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
