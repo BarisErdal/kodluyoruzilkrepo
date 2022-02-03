@@ -1,14 +1,18 @@
 
 # Kodluyoruz İlk Repo
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README.md ve index.html içeriyor
 ![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 ## Installation
-Öncelikle projemizi 
-``` git clone github.com```
+Öncelikle projemizi klonlayalım
+
+``` git clone https://github.com/BarisErdal/kodluyoruzilkrepo```
 
 ## Usage
-linux için
-> cd kodluyoruz
+Klonladıktan sonra Linıx içerisinde açmak için 
+
+``` cd kodluyoruzilkrepo
+    code .
+```
 ## Contributing
 
 pull request
